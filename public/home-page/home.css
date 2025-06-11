@@ -188,6 +188,8 @@ footer {
 
 footer a {
     color: black;
+    text-decoration: underline;
+    cursor: pointer;
 }
 
 @media all and (max-width: 795px) {
