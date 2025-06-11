@@ -49,3 +49,15 @@ img {
     width: 100%;
     height: auto;
 }
+
+footer {
+    width: 100%;
+    padding: 0.5em;
+    background-color: rgb(246, 163, 97);
+    font-size: 0.9em;
+    text-align: center;
+}
+
+footer a {
+    color: black;
+}
